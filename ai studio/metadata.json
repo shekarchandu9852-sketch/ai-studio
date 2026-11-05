@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaGuard - College Attendance & Warning Compliance Portal",
+  "description": "Enterprise collegiate attendance tracking, grade maintenance, and automated sub-85% attendance warning notice dispatch system for faculty and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
